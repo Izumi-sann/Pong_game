@@ -15,8 +15,8 @@ have fun playing along with your friend locally on your machine
 you can control your pad with W and S!
 your friend can use the UP and DOWN arrows!
 
-while in game you can press ESC to return to the home screen
-progress is not saved
-the high score is saved locally 
+while in game you can press ESC to return to the home screen, 
+progress is not saved, 
+the high score is saved locally.
 ### enjoy
 
